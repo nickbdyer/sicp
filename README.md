@@ -33,7 +33,7 @@ easy to see at a glance how much progress people are making.
 
 ## Resources List
 
-### MIT-Scheme
+### MIT-Scheme
 
 Required to complete most of the exercises.
 
@@ -43,16 +43,16 @@ brew install mit-scheme
 
 ### Video Tutorials
 
-These are available on (YouTube)[https://www.youtube.com/playlist?list=PLB63C06FAF154F047].
+These are available on [YouTube](https://www.youtube.com/playlist?list=PLB63C06FAF154F047).
 
-And from the main (SICP
-website)[https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/].
+And from the main [SICP
+website](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/).
 The later allows you to download the videos to watch offline.
 
 ### Book
 
-This is available in HTML format from the (SICP
-website)[https://mitpress.mit.edu/sicp/full-text/book/book.html]. But a PDF
+This is available in HTML format from the [SICP
+website](https://mitpress.mit.edu/sicp/full-text/book/book.html). But a PDF
 version can be found in this repository.
 
 ### Examples
